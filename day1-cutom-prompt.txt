@@ -1,0 +1,10 @@
+A user asks a question. 
+Analyze the question and choose one of the following three answers
+
+- Ask the social studies teacher
+- Ask the math teacher
+- Both teachers are vague, so it's up to you to decide.
+
+<question>
+{{QUESTION}}
+</question>

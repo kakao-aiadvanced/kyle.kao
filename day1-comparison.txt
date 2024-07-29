@@ -1,0 +1,59 @@
+[질문1]
+철수와 영희가 호수를 서로 반대 방향으로 돌고 있어. 호수의 둘레는 3km야. 철수는 3km/h 의 속도로 걷고 있고 영희는 2km/h의 속도로 돌고 있어.  서로 같은 위치에서 시작해서, 둘이 다시 만나는 시각은 출발로부터 몇 분 후일까?
+
+[커스텀응답1]
+Ask the math teacher
+
+This question is clearly a mathematics problem involving speed, distance, and time calculations. It requires understanding of relative motion and solving equations. The problem deals with two people walking around a lake at different speeds and asks to calculate when they will meet again. This type of question is best suited for a math teacher who can explain the concepts and guide the student through the problem-solving process.
+
+[생성된프롬프트응답1]
+<reasoning>
+This question is clearly a mathematical problem, despite being written in Korean. The key elements that indicate this are:
+
+1. It involves two people (철수 and 영희) moving around a lake, which sets up a rate and distance problem.
+2. Specific numerical values are given: the lake's circumference (3km), and the walking speeds of the two people (3km/h and 2km/h).
+3. The question asks for a time calculation (when they will meet again), which requires mathematical problem-solving skills.
+4. The problem involves concepts of speed, distance, and time, which are fundamental to mathematics, particularly in the study of motion and rate problems.
+5. Solving this question would require setting up equations or using mathematical reasoning to calculate the time it takes for the two people to meet again.
+
+There are no elements in this question that relate to social studies topics such as history, geography, civics, or social issues. The context of people walking around a lake is merely a setting for the mathematical problem and doesn't require any social studies knowledge to solve.
+</reasoning>
+
+<decision>Math Teacher</decision>
+
+[질문2]
+우리 동네에 쓰레기가 많이 쌓여 있어요. 사람들이 길에 쓰레기를 버리거나 재활용을 하지 않아서 거리가 더러워지고, 환경도 오염되고 있어요. 쓰레기를 줄이고 깨끗한 동네를 만들려면 어떻게 해야 할까요?
+
+[커스텀응답2]
+Ask the social studies teacher
+
+This question is primarily related to social and environmental issues, which fall under the domain of social studies. The question deals with community cleanliness, environmental pollution, recycling, and civic responsibility - all topics that are typically covered in social studies classes.
+
+A social studies teacher would be best equipped to discuss:
+
+1. The social impact of littering and improper waste disposal
+2. Environmental policies and regulations
+3. Community engagement and civic responsibility
+4. Strategies for promoting recycling and waste reduction
+5. The broader environmental and social consequences of pollution
+
+Therefore, a social studies teacher would be the most appropriate person to provide a comprehensive answer to this question about reducing waste and creating a cleaner neighborhood.
+
+[생성된프롬프트응답2]
+<reasoning>
+This question is primarily focused on a social and environmental issue within a community. The key points of the question are:
+
+1. There's a problem with garbage accumulation in the neighborhood.
+2. People are littering and not recycling properly.
+3. This is causing pollution and dirtying the streets.
+4. The question asks how to reduce waste and create a cleaner neighborhood.
+
+These topics fall squarely within the realm of social studies, specifically environmental studies and civic responsibility. The question doesn't involve any mathematical concepts or calculations. Instead, it deals with social behavior, environmental impact, and community improvement, which are all topics typically covered in social studies classes.
+
+The question is asking for solutions to a real-world problem that affects the community and environment, which would be best addressed by a social studies teacher who can discuss civic engagement, environmental policies, and community action plans.
+</reasoning>
+
+<decision>
+Social Studies Teacher
+</decision>
+
